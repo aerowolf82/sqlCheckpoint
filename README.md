@@ -12,41 +12,49 @@ Challenges:
 [] All of the vacation destinations.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] All destinations where you can swim at the beach.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] All destinations where the average temperature is over 60 degrees.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] All destinations where you can swim at the beach AND go to the mountains.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] All destinations where flights cost less than $500 and you can hike in the mountains.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] Add an entry for The Bahamas, where the average temperature is 78, it has beaches but no mountains, and the flights cost $345.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] Turns out, the cost of flights to New Zealand has increased! Update New Zealand's entry for flight cost to $1000.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] Turns out, Minnesota isn't a vacation destination. Please delete it from the database.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] When the data set was written, the author mistakently wrote "England" when they actually meant "Scotland". Please update that entry in the database.
@@ -57,21 +65,25 @@ Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 [] Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] All airlines that fly to New Zealand.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] All airlines that do NOT fly to Scotland.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] All of the data for all vacation destinations.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 
