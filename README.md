@@ -62,6 +62,7 @@ Query and Result:
 ![image](https://user-images.githubusercontent.com/27661560/139327903-3583d68b-40dd-4a93-bd1a-69af512f0c1d.png)
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [] Turns out, the cost of flights to New Zealand has increased! Update New Zealand's entry for flight cost to $1000.
 
@@ -69,6 +70,7 @@ Query and Result:
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [] Turns out, Minnesota isn't a vacation destination. Please delete it from the database.
 
@@ -76,6 +78,7 @@ Query and Result:
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [] When the data set was written, the author mistakently wrote "England" when they actually meant "Scotland". Please update that entry in the database.
 
@@ -83,6 +86,7 @@ Query and Result:
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [] Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations.
 
@@ -90,6 +94,7 @@ Query and Result:
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [] All airlines that fly to New Zealand.
 
@@ -97,12 +102,15 @@ Query and Result:
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [] All airlines that do NOT fly to Scotland.
 
 Query and Result:
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [] All of the data for all vacation destinations.
 
@@ -111,6 +119,7 @@ Query and Result:
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Vacation Destination Data:
 
