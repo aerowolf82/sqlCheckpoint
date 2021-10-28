@@ -64,7 +64,7 @@ Query and Result:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[] Turns out, the cost of flights to New Zealand has increased! Update New Zealand's entry for flight cost to $1000.
+[/] Turns out, the cost of flights to New Zealand has increased! Update New Zealand's entry for flight cost to $1000.
 
 Query and Result:
 
@@ -73,7 +73,7 @@ Query and Result:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[] Turns out, Minnesota isn't a vacation destination. Please delete it from the database.
+[/] Turns out, Minnesota isn't a vacation destination. Please delete it from the database.
 
 Query and Result:
 
@@ -82,10 +82,11 @@ Query and Result:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[] When the data set was written, the author mistakently wrote "England" when they actually meant "Scotland". Please update that entry in the database.
+[/] When the data set was written, the author mistakently wrote "England" when they actually meant "Scotland". Please update that entry in the database.
 
 Query and Result:
 
+![image](https://user-images.githubusercontent.com/27661560/139328811-f23393f1-7c0a-403d-bb4a-1d10350cf47a.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
