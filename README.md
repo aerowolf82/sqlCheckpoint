@@ -99,6 +99,8 @@ Query and Result:
 
 ![image](https://user-images.githubusercontent.com/27661560/139332375-a252983c-d2ae-4c2f-96db-6b704e3020dd.png)
 
+![image](https://user-images.githubusercontent.com/27661560/139333062-d9de4a95-fad9-4d9c-9b26-f07b4c0626ef.png)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
