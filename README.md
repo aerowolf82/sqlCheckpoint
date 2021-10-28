@@ -101,6 +101,11 @@ Query and Result:
 
 ![image](https://user-images.githubusercontent.com/27661560/139333062-d9de4a95-fad9-4d9c-9b26-f07b4c0626ef.png)
 
+Realized we mixed up the columns, here's the fixed
+
+![image](https://user-images.githubusercontent.com/27661560/139335982-fc84c871-b708-4a96-bc57-740bc5cfbc6c.png)
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
