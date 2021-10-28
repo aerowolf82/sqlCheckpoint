@@ -118,41 +118,21 @@ Query and Result:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[] All airlines that do NOT fly to Scotland.
+[/] All airlines that do NOT fly to Scotland.
 
 Query and Result:
 
+![image](https://user-images.githubusercontent.com/27661560/139339976-430dfc5a-2b32-4476-ab79-22de039697b5.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[] All of the data for all vacation destinations.
+[/] All of the data for all vacation destinations.
 
 Query and Result:
 
+![image](https://user-images.githubusercontent.com/27661560/139340046-d337f844-ca06-46f7-b47e-5b0adf35052c.png)
 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-Airline Data:
-
-[
-  {
-    name: "Spirit",
-    destinations_flown_to: ["New Zealand", "Scotland"]
-  },
-  {
-    name: "Lufthansa",
-    destinations_flown_to: ["Tristan da Cunha", "Scotland", "Thailand"]
-  },
-  {
-    name: "Delta",
-    destinations_flown_to: ["Thailand", "Minnesota", "England", "Scotland"]
-  },
-  {
-    name: "Southwest"
-    destinations_flown_to: ["New Zealeand", "Tristan de Cunha", "Minnesota"]
-  }
-]
