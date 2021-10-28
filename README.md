@@ -94,6 +94,7 @@ Query and Result:
 [/] Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations.
 
 Query and Result:
+
 ![image](https://user-images.githubusercontent.com/27661560/139332261-7f937179-9857-4487-b4d4-483fdaa4e904.png)
 
 ![image](https://user-images.githubusercontent.com/27661560/139332375-a252983c-d2ae-4c2f-96db-6b704e3020dd.png)
