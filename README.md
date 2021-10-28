@@ -55,10 +55,11 @@ Query and Result:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[] Add an entry for The Bahamas, where the average temperature is 78, it has beaches but no mountains, and the flights cost $345.
+[/] Add an entry for The Bahamas, where the average temperature is 78, it has beaches but no mountains, and the flights cost $345.
 
 Query and Result:
 
+![image](https://user-images.githubusercontent.com/27661560/139327903-3583d68b-40dd-4a93-bd1a-69af512f0c1d.png)
 
 
 
