@@ -11,7 +11,8 @@ To Begin:
 Challenges:
 [] All of the vacation destinations.
 
-Query and Result: ![image](https://user-images.githubusercontent.com/27661560/139325296-648b932f-0f81-4fb9-92dc-c3f48d237b82.png)
+Query and Result:
+![image](https://user-images.githubusercontent.com/27661560/139325296-648b932f-0f81-4fb9-92dc-c3f48d237b82.png)
 
 [] All destinations where you can swim at the beach.
 
