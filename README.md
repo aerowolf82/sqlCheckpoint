@@ -9,11 +9,15 @@ To Begin:
 [] Create a table called airlines and populate it with each airline's name and id.
 
 Challenges:
+
 [/] All of the vacation destinations.
 
 Query and Result:
 
 ![image](https://user-images.githubusercontent.com/27661560/139325296-648b932f-0f81-4fb9-92dc-c3f48d237b82.png)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [/] All destinations where you can swim at the beach.
 
@@ -22,6 +26,8 @@ Query and Result:
 ![image](https://user-images.githubusercontent.com/27661560/139326142-91018322-d714-4fc8-b793-1ac4fd02ec10.png)
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [] All destinations where the average temperature is over 60 degrees.
 
 Query and Result:
@@ -29,12 +35,16 @@ Query and Result:
 ![image](https://user-images.githubusercontent.com/27661560/139326807-38956183-28e6-4fea-b5ae-e168de140e53.png)
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [] All destinations where you can swim at the beach AND go to the mountains.
 
 Query and Result:
 
+![image](https://user-images.githubusercontent.com/27661560/139327197-13ff4849-e716-40c4-b391-6d9d645ed4b8.png)
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [] All destinations where flights cost less than $500 and you can hike in the mountains.
 
@@ -42,6 +52,7 @@ Query and Result:
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [] Add an entry for The Bahamas, where the average temperature is 78, it has beaches but no mountains, and the flights cost $345.
 
