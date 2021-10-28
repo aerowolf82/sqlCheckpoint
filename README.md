@@ -5,11 +5,11 @@ Complete each of the following challenges, and take a screenshot of each query i
 
 To Begin:
 [/] Create a database called vacations
-[] Create a table called destinations and populate it with each location's id, name, average_temp, has_beaches, has_mountains, and cost_of_flight.
+[/] Create a table called destinations and populate it with each location's id, name, average_temp, has_beaches, has_mountains, and cost_of_flight.
 [] Create a table called airlines and populate it with each airline's name and id.
 
 Challenges:
-[] All of the vacation destinations.
+[/] All of the vacation destinations.
 
 Query and Result:
 ![image](https://user-images.githubusercontent.com/27661560/139325296-648b932f-0f81-4fb9-92dc-c3f48d237b82.png)
