@@ -127,7 +127,16 @@ Query and Result:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[/] All of the data for all vacation destinations.
+[] All of the data for all vacation destinations.
+
+Start of the Query:
+
+Gets airline names going to a certain location:
+
+SELECT name FROM airlines WHERE id IN (SELECT airlines_id FROM destinations_flown_to WHERE destinations_id = 1);
+
+
+
 
 Query and Result:
 
