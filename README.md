@@ -12,11 +12,13 @@ Challenges:
 [/] All of the vacation destinations.
 
 Query and Result:
+
 ![image](https://user-images.githubusercontent.com/27661560/139325296-648b932f-0f81-4fb9-92dc-c3f48d237b82.png)
 
 [/] All destinations where you can swim at the beach.
 
 Query and Result:
+
 ![image](https://user-images.githubusercontent.com/27661560/139326142-91018322-d714-4fc8-b793-1ac4fd02ec10.png)
 
 
@@ -24,10 +26,13 @@ Query and Result:
 
 Query and Result:
 
+![image](https://user-images.githubusercontent.com/27661560/139326807-38956183-28e6-4fea-b5ae-e168de140e53.png)
+
 
 [] All destinations where you can swim at the beach AND go to the mountains.
 
 Query and Result:
+
 
 
 
@@ -37,9 +42,11 @@ Query and Result:
 
 
 
+
 [] Add an entry for The Bahamas, where the average temperature is 78, it has beaches but no mountains, and the flights cost $345.
 
 Query and Result:
+
 
 
 
@@ -49,9 +56,11 @@ Query and Result:
 
 
 
+
 [] Turns out, Minnesota isn't a vacation destination. Please delete it from the database.
 
 Query and Result:
+
 
 
 
@@ -61,9 +70,11 @@ Query and Result:
 
 
 
+
 [] Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations.
 
 Query and Result:
+
 
 
 
@@ -79,9 +90,11 @@ Query and Result:
 
 
 
+
 [] All of the data for all vacation destinations.
 
 Query and Result:
+
 
 
 
