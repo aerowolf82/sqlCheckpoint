@@ -12,6 +12,7 @@ Challenges:
 [] All of the vacation destinations.
 
 Query: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
+
 Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)
 
 [] All destinations where you can swim at the beach.
