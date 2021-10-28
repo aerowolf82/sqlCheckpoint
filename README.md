@@ -28,7 +28,7 @@ Query and Result:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[] All destinations where the average temperature is over 60 degrees.
+[/] All destinations where the average temperature is over 60 degrees.
 
 Query and Result:
 
@@ -37,7 +37,7 @@ Query and Result:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[] All destinations where you can swim at the beach AND go to the mountains.
+[/] All destinations where you can swim at the beach AND go to the mountains.
 
 Query and Result:
 
@@ -46,10 +46,11 @@ Query and Result:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[] All destinations where flights cost less than $500 and you can hike in the mountains.
+[/] All destinations where flights cost less than $500 and you can hike in the mountains.
 
 Query and Result:
 
+![image](https://user-images.githubusercontent.com/27661560/139327599-1dce935e-5aaa-498c-a5ca-3a873bd8175f.png)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
